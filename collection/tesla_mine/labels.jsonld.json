@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1022541",
+    "http://schema.org/name": "Mines and mineral resources"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214323",
+    "http://schema.org/name": "California--Alameda"
+  }
+]
