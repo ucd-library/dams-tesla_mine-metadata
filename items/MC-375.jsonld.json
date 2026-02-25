@@ -26,10 +26,10 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/MC-375.pdf"
   },
-  "schema:creator": "Gould, G.G.; Stateler, J.W.",
+  "schema:creator": "Gould, G.E.; Stateler, J.W.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1895ca."
+    "@value": "1894-1896"
   },
   "schema:identifier": [
     "ark:/87293/d3gq6rb78",
