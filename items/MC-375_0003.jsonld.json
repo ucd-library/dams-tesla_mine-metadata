@@ -16,10 +16,10 @@
   ],
   "schema:about": [
     {
-      "@id": "http://id.world?-.org/fast/1022541"
+      "@id": "http://id.worldcat.org/fast/1022541"
     },
     {
-      "@id": "http://id.world?-.org/fast/1214323"
+      "@id": "http://id.worldcat.org/fast/1214323"
     }
   ],
   "schema:description": [],
@@ -36,7 +36,7 @@
     "MC-375"
   ],
   "schema:license": {
-    "@id": "http://rightsstatements.org/vo?-/CNE/1.0/"
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
   "schema:name": "Buildings with Hotel Tesla in the background",
   "schema:material": "approx. 6-1/2 x 8-1/4 inches on approx. 9 x 11 inch heavy cardstock mount;",
@@ -46,7 +46,7 @@
     "@value": "2026"
   },
   "schema:sdLicense": {
-    "@id": "http://rightsstatements.org/vo?-/InC-NC/1.0/"
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
 }
