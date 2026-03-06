@@ -17,9 +17,6 @@
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1022541"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1214323"
     }
   ],
   "schema:description": [],
