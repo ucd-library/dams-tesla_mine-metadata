@@ -35,7 +35,8 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
   },
-  "schema:name": "Group portrait of miners, including men of Asian and African American descent",
+  "schema:name": "Group portrait of miners",
+  "schema:description": "A group photograph of miners, including men of Asian and African American descent",
   "schema:material": "Approx. 6-1/2 x 8-1/4 inches on approx. 9 x 11 inch heavy cardstock mount",
   "schema:publisher": "",
   "schema:sdDatePublished": {
